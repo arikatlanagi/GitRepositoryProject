@@ -10,6 +10,7 @@ public class Test2 {
 			System.out.println("Do work !!!");
 		} else {
 			System.out.println("No inputs !!!");
+			System.out.println("No inputs !!!");
 		}
 	}
 

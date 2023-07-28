@@ -6,12 +6,9 @@ public class Test2 {
 		boolean hungry = false;
 		if (hungry) {
 			System.out.println("Eat something !!!");
-		} else if (hungry == false) {
-			System.out.println("Do work !!!");
 		} else {
-			System.out.println("No inputs !!!");
-			System.out.println("No inputs !!!");
-		}
+			System.out.println("Do work !!!");
+		} 
 	}
 
 }
